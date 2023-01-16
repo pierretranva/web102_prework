@@ -34,7 +34,7 @@ GIF created with Kap
 
 ## Notes
 
-Doing this prework project was a fun experience to learn more javascript and have a refresher on basic javascript functions such as reduce, spread, and destructuring. I'm excited to build app with more advanced web development frameworks such as react and angular!
+Doing this prework project was a fun experience to learn more javascript and have a refresher on basic javascript functions such as reduce, filter, and spread. I'm excited to build app with more advanced web development frameworks such as react and angular!
 
 ## License
 
